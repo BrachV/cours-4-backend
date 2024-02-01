@@ -32,3 +32,6 @@ phpstan.neon
 /.phpcs-cache
 /phpcs.xml
 ###< squizlabs/php_codesniffer ###
+
+# Phpstorm config files
+.idea
